@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js",
+    "promise": "node src/promise/index.js",
+    "async": "node src/async/index.js"
+  },
+  "author": "juan david osorio ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
